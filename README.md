@@ -1,6 +1,6 @@
 # Hi, I'm Diogo Caixeta 👋
 
-### Hands-on Go-to-Market Engineer & AI Specialist
+### Technical Founder & Growth Architect
 
 I'm a builder at the intersection of technology, marketing, and operations. I specialize in architecting and engineering scalable GTM and operational systems from scratch, always with a relentless focus on solving critical business challenges and driving measurable growth.
 
@@ -12,7 +12,7 @@ My GitHub activity graph reflects my daily work, but the vast majority of my cod
 
 To provide a transparent look into my projects—including architecture, technologies, and business results—I've created a curated portfolio.
 
-**➡️ View My Curated Portfolio: **
+[![View My Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/Diogo-Caixeta-Portfolio-2a64d7ca28438176a63cea9af4a241de)
 
 ---
 
