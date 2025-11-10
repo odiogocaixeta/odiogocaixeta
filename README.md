@@ -32,4 +32,6 @@ To provide a transparent look into my projects—including architecture, technol
 ### 📫 Let's Connect
 
 - **LinkedIn:** [https://www.linkedin.com/in/diogocaixeta]
+- **YouTube:** [https://youtube.com/diogocaixetatv]
 - **Email:** [diogoacmkt@gmail.com]
+
